@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "invalid": {
+    "username": "Admin",
+    "password": "salahbanget"
+  },
+  "newUser": {
+    "password": "Cypress@123",
+    "status": "Enabled",
+    "employeeHint": "a"
+  }
+}
